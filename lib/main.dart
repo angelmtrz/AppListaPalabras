@@ -16,8 +16,8 @@ class AppListaPalabras extends StatelessWidget {
       title: 'Generador Lista de Palabras',
       theme: ThemeData(
         appBarTheme: const AppBarTheme(
-          backgroundColor: Colors.black,
-          foregroundColor: Colors.green,
+          backgroundColor: Colors.red,
+          foregroundColor: Colors.white,
         ),
       ),
       home: const ParPalabras(),
